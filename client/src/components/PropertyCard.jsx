@@ -87,7 +87,7 @@ export default function PropertyCard({ stay }) {
         {/* WhatsApp Button - Primary Action */}
         <button 
           className="w-full flex items-center justify-center gap-2 py-3 border border-gray-200 rounded-xl font-bold text-slate-700 hover:bg-gray-50 transition-colors"
-          onClick={() => window.open(`https://wa.me/254700000000?text=I'm interested in ${stay.title}`)}
+          onClick={() => window.open(`https://wa.me/254726063889?text=I'm interested in ${stay.title}`)}
         >
           <MessageCircle size={18} />
           <span>WhatsApp</span>
