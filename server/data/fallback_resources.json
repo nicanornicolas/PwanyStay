@@ -1,0 +1,174 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "name": "Rental house",
+      "description": "leasing ",
+      "created_at": "2026-01-13T09:52:08.363Z"
+    },
+    {
+      "id": 2,
+      "name": "AIR",
+      "description": "im leasing a rental house",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "created_at": "2026-01-13T10:35:46.628Z"
+    },
+    {
+      "id": 3,
+      "name": "Automation Test Stay",
+      "description": "Test persisted fields",
+      "price": 2200,
+      "image": "https://example.com/test.jpg",
+      "location": "Testville",
+      "tags": [
+        "wifi",
+        "kitchen"
+      ],
+      "created_at": "2026-01-13T10:50:23.417Z"
+    },
+    {
+      "id": 4,
+      "name": "Oval Training",
+      "description": "Offering courses",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "created_at": "2026-01-13T12:52:17.618Z"
+    },
+    {
+      "id": 5,
+      "name": "Willstone House",
+      "description": "House for sale",
+      "price": 10000,
+      "image": "http://localhost:4000/uploads/1768309846363-1y6ut9.jpeg",
+      "location": "Diani",
+      "tags": [],
+      "created_at": "2026-01-13T13:10:50.417Z"
+    },
+    {
+      "id": 6,
+      "name": "cheruiyotevans@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T10:34:00.653Z"
+    },
+    {
+      "id": 7,
+      "name": "cheruiyotevans646@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T11:11:06.143Z"
+    },
+    {
+      "id": 8,
+      "name": "cheruiyotevans646@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T11:15:55.599Z"
+    },
+    {
+      "id": 9,
+      "name": "cheruiyotevans646@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T11:16:12.909Z"
+    },
+    {
+      "id": 10,
+      "name": "cheruiyotevans646@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T11:16:25.755Z"
+    },
+    {
+      "id": 11,
+      "name": "cheruiyotevans646@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T11:23:27.292Z"
+    },
+    {
+      "id": 12,
+      "name": "cheruiyotevans646@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T11:31:35.555Z"
+    },
+    {
+      "id": 13,
+      "name": "cheruiyotevans646@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T11:32:04.708Z"
+    },
+    {
+      "id": 14,
+      "name": "cheruiyotevans646@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T11:34:17.815Z"
+    },
+    {
+      "id": 15,
+      "name": "cheruiyotevans646@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T11:39:13.093Z"
+    },
+    {
+      "id": 16,
+      "name": "cheruiyotevans646@gmail.com",
+      "description": "local-user",
+      "price": null,
+      "image": null,
+      "location": null,
+      "tags": [],
+      "images": [],
+      "created_at": "2026-01-14T11:41:33.840Z"
+    }
+  ]
+}
