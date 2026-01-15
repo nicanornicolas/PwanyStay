@@ -18,7 +18,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-semibold">Email</p>
-                  <p className="text-gray-600">hello@pwanystay.com</p>
+                  <p className="text-gray-600">pwanystay@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-3">
